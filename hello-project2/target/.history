@@ -1,0 +1,13 @@
+run
+compil
+compile
+run
+exit
+autoScalaLibrary := false
+project hello-project2
+run
+compile
+run
+exit
+test
+exit

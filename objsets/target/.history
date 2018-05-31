@@ -1,0 +1,17 @@
+compile
+submit jeremy.isnard@gmail.com zzhBbDrVax
+exit
+compile
+styleCheck
+submit jeremy.isnard@gmail.com zzhBbDrVax
+exit
+compile
+submit jeremy.isnard@gmail.com zzhBbDrVax
+styleCheck
+sty
+styleCheck
+run
+submit jeremy.isnard@gmail.com zzhBbDrVax
+styleCheck
+submit jeremy.isnard@gmail.com zzhBbDrVax
+exit

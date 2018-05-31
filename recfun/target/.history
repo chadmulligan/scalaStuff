@@ -1,0 +1,15 @@
+cstyleCheck
+styleCheck
+run balance("()(()()()".toList)
+run recfun.Main.balance("()(()()()".toList)
+console
+run recfun.Main.balance("(()))((()))".toList)
+style
+styleCheck
+compile
+submit jeremy.isnard@gmail.com zzhBbDrVax
+exi
+exit
+run
+exit
+run

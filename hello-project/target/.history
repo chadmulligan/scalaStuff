@@ -1,0 +1,9 @@
+run
+compile
+run
+last update
+run help
+help <run>
+help <test>
+run
+exit

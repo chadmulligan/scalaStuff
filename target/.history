@@ -1,0 +1,14 @@
+compile
+run
+sbt -h
+exit
+xit
+exit
+console
+exit
+compile
+run
+exit
+project hello-project2
+ext
+exit
